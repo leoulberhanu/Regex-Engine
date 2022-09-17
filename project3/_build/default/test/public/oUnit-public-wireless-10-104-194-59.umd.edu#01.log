@@ -1,0 +1,18 @@
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: Start test public:0:nfa_accept.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: Test public:0:nfa_accept is successful.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: End test public:0:nfa_accept.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: Start test public:2:nfa_move.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: Test public:2:nfa_move is successful.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: End test public:2:nfa_move.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: Start test public:4:re_to_nfa.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: Test public:4:re_to_nfa is successful.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: End test public:4:re_to_nfa.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: Start test public:6:nfa_new_states.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: Test public:6:nfa_new_states is successful.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: End test public:6:nfa_new_states.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: Start test public:7:nfa_new_trans.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: Test public:7:nfa_new_trans is successful.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: End test public:7:nfa_new_trans.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: Start test public:9:regex_to_nfa.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: Test public:9:regex_to_nfa is successful.
+2022-03-30T17:44:32+00:00 wireless-10-104-194-59.umd.edu#01 I: End test public:9:regex_to_nfa.
